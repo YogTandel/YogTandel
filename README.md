@@ -2,3 +2,5 @@
 <p align="center" href="https://git.io/typing-svg">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=E4E4E4&center=true&vCenter=true&width=435&lines=%F0%9F%8C%BF++Yog+Tandel.;%F0%9F%8C%B1+Informatics+Student;%F0%9F%93%A6+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
+
+## 👋 Hi there, I'm YOG.
