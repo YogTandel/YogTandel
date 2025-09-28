@@ -8,5 +8,4 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YogTandel&theme=rose_pine)](https://github.com/YogTandel)
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YogTandel&theme=rose_pine)](https://github.com/YogTandel) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YogTandel&theme=rose_pine)](https://github.com/YogTandel)
-
 ##
