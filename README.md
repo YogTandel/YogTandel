@@ -27,3 +27,11 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+<div align="center">
+  <b>Thanks for visiting! Don't forget to check out my latest projects!</b>
+  <br>
+  <i>Let's build something amazing together! 🚀</i>
+</div>
