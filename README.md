@@ -35,3 +35,11 @@
   <br>
   <i>Let's build something amazing together! 🚀</i>
 </div>
+
+---
+
+# Visitor Counter
+<div align="center">
+  <img src="https://count.getloli.com/@YogTandel?theme=asoul"
+  style="border-radius:8px;" />
+</div>
