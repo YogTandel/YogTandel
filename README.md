@@ -4,8 +4,6 @@
 
 ## 👋 Hi there, I'm YOG.
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YogTandel&theme=rose_pine)](https://github.com/YogTandel)
-
 ## 🛠️ Tech Stack
 
 <p align="left">
